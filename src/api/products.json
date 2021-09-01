@@ -1,0 +1,110 @@
+
+[
+{
+
+ "id" :1,
+ "name":"marcedes",
+ "price": 15000,
+ "image":"/fotos/pr1.jpg",
+ "description": "marcedes benz très haute qualitè"
+
+},
+{
+
+    "id" :2,
+    "name":"BMW sport",
+    "price": 2000,
+    "image":"/fotos/pr2.png",
+    "description": "Bmw sport très haute qualitè"
+   
+   },
+   {
+
+    "id" :3,
+    "name":"toyota",
+    "price": 250000,
+    "image":"/fotos/pr3.jpg",
+    "description": "Toyota helux très haute qualitè"
+   
+   },
+   {
+
+    "id" :4,
+    "name":"Amarok",
+    "price": 50000,
+    "image":"/fotos/pr4.jpg",
+    "description": "Amaroc très piussante "
+   
+   },
+   {
+
+    "id" :5,
+    "name":"Megane coupè",
+    "price": 70000,
+    "image":"/fotos/pr10.jpg",
+    "description": "Megane 6èm vitesse  voiture très piussante "
+   
+   },
+   {
+
+    "id" :6,
+    "name":"Megane coupè",
+    "price": 70000,
+    "image":"/fotos/pr9.jpg",
+    "description": "Reanualt Megane francaise equilibrè et familiale"
+   
+   },
+   {
+
+    "id" :7,
+    "name":"Kia Sportage",
+    "price": 130000,
+    "image":"/fotos/pr5.jpg",
+    "description": "Kia Sportage  Deutchland très haute Gamme  "
+   
+   },
+   {
+
+    "id" :8,
+    "name":"Clio modifiè",
+    "price": 55000,
+    "image":"/fotos/pr6.jpg",
+    "description": "Renault Clio Bombè Modifiè attirante et très pratique  "
+   
+   },
+   {
+
+    "id" :9,
+    "name":"Dmax",
+    "price": 80000,
+    "image":"/fotos/pr7.jpg",
+    "description": " Isuzu Dmax  6èm vitesse très  rapide et piussante "
+   
+   },
+   {
+
+    "id" :10,
+    "name":"Megane coupè",
+    "price": 70000,
+    "image":"/fotos/pr10.jpg",
+    "description": "Amaroc très piussante "
+   
+   },
+   {
+
+    "id" :11,
+    "name":"Mahindra",
+    "price": 85000,
+    "image":"/fotos/pr8.jpg",
+    "description": "Mahindra 3 cylindre  des montagnes  "
+   
+   },
+   {
+   "id" :12,
+    "name":"Ferrari 485",
+    "price": 1800000,
+    "image":"/fotos/pr11.jpg",
+    "description": "Ferrari spider 400km/h très haute qualitè  "
+   
+   }
+]
